@@ -17,3 +17,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
