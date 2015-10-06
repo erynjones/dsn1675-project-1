@@ -170,3 +170,33 @@ footer {
     width: 8%;
   }
 }
+
+@media print {
+
+  .icon {
+    display: none;
+  }
+
+  .circle {
+    width: 100px;
+  	height: 100px;
+  	border-radius: 50px;
+    border: 2px solid #913123;
+  }
+
+  .masthead {
+    float: left;
+    clear: left;
+    display: block;
+    width: 25%;
+    margin-top: 3em;
+  }
+
+  p {
+    font-size: 12pt;
+    float: right;
+    clear: right;
+    display: block;
+    width: 75%;
+  }
+}
