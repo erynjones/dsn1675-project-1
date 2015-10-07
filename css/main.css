@@ -50,7 +50,7 @@ p {
 }
 
 .icon {
-  width: 16%;
+  width: 22%;
   margin: .65em;
 }
 
@@ -83,7 +83,7 @@ footer {
 }
 
 .icon {
-  width: 12%;
+  width: 13%;
 }
 
 @media only screen and (min-width: 34em) {
@@ -110,7 +110,7 @@ footer {
   }
 
   .icon {
-    width: 8%;
+    width: 11%;
   }
 }
 
@@ -166,7 +166,7 @@ footer {
   }
 
   .icon {
-    width: 5%;
+    width: 6%;
     margin: .5em;
   }
 }
