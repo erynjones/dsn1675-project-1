@@ -165,10 +165,6 @@ footer {
   	border-radius: 200px;
   }
 
-  .icon {
-    width: 8%;
-    margin: .5em;
-  }
 }
 
 @media print {
