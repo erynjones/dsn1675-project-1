@@ -66,11 +66,11 @@ footer {
   }
 
   h1 {
-    font-size: 40pt;
+    font-size: 3rem;
   }
 
   p {
-    font-size: 16pt;
+    font-size: 0.75rem;
   }
 }
 
@@ -81,6 +81,14 @@ footer {
     padding-right: 50px;
   }
 }
+
+  p {
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 3.5rem;
+  }
 
 .icon {
   width: 13%;
@@ -96,11 +104,7 @@ footer {
   }
 
   h1 {
-    font-size: 52pt;
-  }
-
-  p {
-    font-size: 17pt;
+    font-size: 3.75rem;
   }
 
   .circle {
@@ -124,11 +128,11 @@ footer {
   }
 
   h1 {
-    font-size: 60pt;
+    font-size: 4.5rem;
   }
 
   p {
-    font-size: 18pt;
+    font-size: 1.1rem;
   }
 
   .circle {
@@ -152,11 +156,11 @@ footer {
   }
 
   h1 {
-    font-size: 80pt;
+    font-size: 5.5rem;
   }
 
   p {
-    font-size: 20pt;
+    font-size: 1.2rem;
   }
 
   .circle {
